@@ -1,2 +1,2 @@
 # Zadanie-domowe-repozytorium
-kolejna próba w GIT
+kolejna próba w GIT, ech
